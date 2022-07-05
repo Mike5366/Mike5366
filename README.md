@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mike
+- 👀 I’m interested in data processing at scale
+- 🌱 I’m currently learning Spark
