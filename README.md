@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in data processing at scale
-- 🌱 I’m currently learning Spark
+- 👀 I’m interested in cloud computing and distributed system
+- 🌱 I’m currently AWS and Docker
