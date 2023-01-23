@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in cloud computing and distributed system
-- 🌱 I’m currently AWS and Docker
+- 🌱 I’m currently learning AWS and Docker
