@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in cloud computing and distributed system
-- 🌱 I’m currently learning AWS and Docker
+- 👀 I’m interested in full-stack development, cloud computing, and distributed systems.
+- 🌱 I’m currently learning Next.js, Express.js.
